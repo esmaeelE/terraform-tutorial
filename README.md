@@ -269,7 +269,7 @@ If you have difficulties to connect to youtube there is an alternative way, you 
 | Episode | Name                                                                       | branch                                                               | Youtube                               |
 | ------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------- |
 | 001     | Introduction                                                               | -                                                                    | [watch](https://youtu.be/aFk04rQWvOM) |
-| 002     | Why LaC                                                                    | -                                                                    | [watch](https://youtu.be/Ta-gJecexlg) |
+| 002     | Why IaC                                                                    | -                                                                    | [watch](https://youtu.be/Ta-gJecexlg) |
 | 003     | Configuration management vs infrastructure orchestration                   | -                                                                    | [watch](https://youtu.be/n_DckVP5nJQ) |
 | 004     | Terraform Providers and basic AWS configuration to get programmatic access | [004](https://github.com/devopshobbies/terraform-tutorial/tree/v004) | [watch](https://youtu.be/KFg3jDemBF4) |
 | 005     | Create your first resource with terraform                                  | [005](https://github.com/devopshobbies/terraform-tutorial/tree/v005) | [watch](https://youtu.be/tM8eNLZTfKg) |
